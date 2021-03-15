@@ -1,0 +1,9 @@
+## Banner Creation
+
+
+Banners should be 1920x384px jpegs, the smaller the better to reduce loading/appearance times.
+
+banner_template.svg is an inkscape svg that will allow you to position an impage and ouput a correctly sized banner, do convert to jpg and consider compression. 
+
+Images used should come from a liberally licensed source or be a user contribution. See assets/bitmap/backgrouds 
+
